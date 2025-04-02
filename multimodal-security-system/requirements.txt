@@ -1,0 +1,10 @@
+opencv-python
+numpy
+torch
+torchvision
+tensorflow
+flask
+fastapi
+uvicorn
+paho-mqtt
+requests
